@@ -1,0 +1,4 @@
+woodo
+=====
+
+Amusing bash script
